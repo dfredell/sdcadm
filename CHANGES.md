@@ -10,6 +10,10 @@
 
 # sdcadm Changelog
 
+## XXX
+
+- KBMAPI support
+
 ## 1.24.2
 
 - TRITON-1055 sdcadm experimental update-agents with --just-download flag fails on SHA1
