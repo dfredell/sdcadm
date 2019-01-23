@@ -46,7 +46,7 @@
         "config-agent": "config-agent",
         "dockerlogger": "dockerlogger",
         "volapi": "volapi",
-        "prometheus": "prometheus"
+        "prometheus": "manta-prometheus"
     },
     "svcMinImages": {
         "binder": "20140731T211135Z",
